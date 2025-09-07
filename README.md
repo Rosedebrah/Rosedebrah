@@ -3,7 +3,7 @@ I'm Debbie, a graduating Computer Science student with a passion for crafting be
 
 Self-taught and eager to learn, I'm skilled in Python, React, Java, and the web development fundamentals (HTML & CSS).  I also believe design is key, so I'm comfortable with UI design tools like Figma.
 
-View my [portfolio]([https://web-portfolio-git-main-rosedebras-projects.vercel.app/])
+View my [portfolio](https://web-portfolio-git-main-rosedebras-projects.vercel.app/)
 
 - 🔭 I’m currently working on a therapy booking app and an e-commerce website.
 - 🌱 I’m currently learning Firebase
