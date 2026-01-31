@@ -2,15 +2,21 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # updates daily
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update WakaTime stats
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_LANGUAGE: false
+          SHOW_PROJECTS: false
+          SHOW_EDITORS: false
+          SHOW_OS: false
+
