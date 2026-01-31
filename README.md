@@ -13,7 +13,9 @@ My work spans software development, system digitization, data tools (Excel & aut
 
 🌍 Evolence: https://evolence.vercel.app/
 
-
+## ⏱ Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7uezKFkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Debiecrochets) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@0xcybergirl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojuokrosedebrah@gmail.com) 
