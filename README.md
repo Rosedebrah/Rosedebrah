@@ -13,6 +13,9 @@ My work spans software development, system digitization, data tools (Excel & aut
 
 🌍 Evolence: https://evolence.vercel.app/
 
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+- Rick Osborne
+
 ## ⏱ Weekly Development Breakdown
 <!--START_SECTION:waka-->
 
@@ -34,12 +37,6 @@ JSON         5 mins          ▒░░░░░░░░░░░░░░░░
 ![](https://github-readme-stats.vercel.app/api?username=Debby-arch&theme=rose&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Debby-arch&theme=rose&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Debby-arch&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Debby-arch&theme=rose&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Debby-arch&limit=5&theme=dark&combine_all_yearly_contributions=true)
