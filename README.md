@@ -1,5 +1,18 @@
-# 💫 About Me:
-🔭 I’m currently working on Evolance<br>👯 I’m looking to collaborate on cybersecurity related projects<br>🤝 I’m looking for help with job hunting<br>🌱 I’m currently learning cybersecurity<br><br>
+👋 Hi, I’m Rosedebrah Ojuok  
+
+I’m a Software Engineer and UI/UX Designer with hands-on experience in front-end development, digitization, and education technology. I enjoy building practical, user-centered software solutions and helping teams replace manual processes with efficient digital systems.  
+
+I’m currently working on **Evolence**, a digital operations consultancy helping schools, SMEs, and founder-led teams reduce operational chaos and inefficiency. At Evolence, we digitise processes, automate workflows, and build clear, practical systems powered by data and modern tools—so organisations can work smarter, scale sustainably, and make better decisions.  
+
+My work spans software development, system digitization, data tools (Excel & automation), and technical training. I’m especially passionate about using technology to improve operations in schools, SMEs, and founder-led organizations.  
+
+💻 Tech: JavaScript, Python, React, Git, APIs  
+🎨 UI/UX: User-centered design, wireframing, prototyping  
+📊 Data: Advanced Excel, reporting, automation  
+🌱 Currently growing in cybersecurity, scalable systems and real-world product development  
+
+🌍 Evolence: https://evolence.vercel.app/
+
 
 
 ## 🌐 Socials:
