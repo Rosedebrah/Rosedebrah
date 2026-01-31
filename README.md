@@ -15,6 +15,14 @@ My work spans software development, system digitization, data tools (Excel & aut
 
 ## ⏱ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   4 hrs 42 mins   █████████████▒░░░░░░░░░░░   52.85 %
+CSS          3 hrs 55 mins   ███████████░░░░░░░░░░░░░░   44.00 %
+Other        11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🌐 Socials:
