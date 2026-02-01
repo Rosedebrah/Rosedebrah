@@ -1,4 +1,4 @@
-👋 Hi, I’m Rosedebrah Ojuok  
+👋 Hi, I’m Rosedebrah
 
 I’m a Software Engineer and UI/UX Designer with hands-on experience in front-end development, digitization, and education technology. I enjoy building practical, user-centered software solutions and helping teams replace manual processes with efficient digital systems.  
 
