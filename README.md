@@ -20,13 +20,13 @@ Always code as if the guy who ends up maintaining your code will be a violent ps
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 10 hrs 4 mins
+Total Time: 10 hrs 16 mins
 
-JavaScript   5 hrs 4 mins    ████████████▒░░░░░░░░░░░░   49.40 %
-CSS          4 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.86 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   5 hrs 17 mins   ████████████▓░░░░░░░░░░░░   50.30 %
+CSS          4 hrs           █████████▓░░░░░░░░░░░░░░░   38.17 %
+TypeScript   54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
