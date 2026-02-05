@@ -10,7 +10,7 @@ My work spans software development, system digitization, data tools (Excel & aut
 🎨 UI/UX: User-centered design, wireframing, prototyping  
 📊 Data: Advanced Excel, reporting, automation  
 🌱 Currently growing in cybersecurity, scalable systems and real-world product development  
-
+(https://portfolio-tawny-sigma-zt7jxydkld.vercel.app/) ![My Portfolio]
 🌍 Evolence: https://evolence.vercel.app/
 
 Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
