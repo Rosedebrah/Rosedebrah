@@ -9,12 +9,14 @@ My work spans software development, system digitization, data tools (Excel & aut
 💻 Tech: JavaScript, Python, React, Git, APIs  
 🎨 UI/UX: User-centered design, wireframing, prototyping  
 📊 Data: Advanced Excel, reporting, automation  
-🌱 Currently growing in cybersecurity, scalable systems and real-world product development  
-(https://portfolio-tawny-sigma-zt7jxydkld.vercel.app/) ![My Portfolio]
-🌍 Evolence: https://evolence.vercel.app/
+🌱 Currently growing in cybersecurity, scalable systems and real-world product development 
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
-- Rick Osborne
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portfolio-tawny-sigma-zt7jxydkld.vercel.app/)
+
+[![Evolence](https://img.shields.io/badge/Evolence-Visit-blue?style=for-the-badge)](https://evolence.vercel.app/)
+
+
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.                   ~Rick Osborne
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7uezKFkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Debiecrochets) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@0xcybergirl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojuokrosedebrah@gmail.com) 
