@@ -4,7 +4,7 @@ I’m a Software Engineer and UI/UX Designer with hands-on experience in front-e
 
 I’m currently working on **Evolence**, a digital operations consultancy helping schools, SMEs, and founder-led teams reduce operational chaos and inefficiency. At Evolence, we digitise processes, automate workflows, and build clear, practical systems powered by data and modern tools-so organisations can work smarter, scale sustainably, and make better decisions.  
 
-My work spans software development, system digitization, data tools (Excel & automation), and technical training. I’m especially passionate about using technology to improve operations in schools, SMEs, and founder-led organizations.  
+My work spans software development, system digitization, data tools (Excel and automation), and technical training. I’m especially passionate about using technology to improve operations in schools, SMEs, and founder-led organizations.  
 
 💻 Tech: JavaScript, Python, React, Git, APIs  
 🎨 UI/UX: User-centered design, wireframing, prototyping  
