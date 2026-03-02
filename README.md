@@ -11,6 +11,9 @@ My work spans software development, system digitization, data tools (Excel and a
 📊 Data: Advanced Excel, reporting, automation  
 🌱 Currently growing in cybersecurity, scalable systems and real-world product development 
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6978791" style='border:none;'></iframe>
+
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portfolio-tawny-sigma-zt7jxydkld.vercel.app/)
 
 [![Evolence](https://img.shields.io/badge/Evolence-Visit-blue?style=for-the-badge)](https://evolence.vercel.app/)
