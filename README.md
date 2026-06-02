@@ -14,7 +14,7 @@ My work spans software development, system digitization, data tools (Excel and a
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6978791" style='border:none;'></iframe>
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://portfolio-tawny-sigma-zt7jxydkld.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://rosedebrah.co.ke/)
 
 [![Evolence](https://img.shields.io/badge/Evolence-Visit-blue?style=for-the-badge)](https://evolence.vercel.app/)
 
