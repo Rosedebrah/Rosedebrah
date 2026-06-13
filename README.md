@@ -1,31 +1,118 @@
-👋 Hi, I’m Rosedebrah
+<div align="center">
 
-I’m a Software Engineer and UI/UX Designer with hands-on experience in front-end development, digitization, and education technology. I enjoy building practical, user-centered software solutions and helping teams replace manual processes with efficient digital systems.  
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rosedebrah&fontSize=60&fontColor=FFB6C1&fontAlignY=38&desc=Software%20Engineer%20%7C%20UI%2FUX%20Designer%20%7C%20Digitisation%20Consultant&descAlignY=58&descColor=FFC0CB&animation=fadeIn" />
 
-I’m currently working on **Evolence**, a digital operations consultancy helping schools, SMEs, and founder-led teams reduce operational chaos and inefficiency. At Evolence, we digitise processes, automate workflows, and build clear, practical systems powered by data and modern tools-so organisations can work smarter, scale sustainably, and make better decisions.  
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Building+systems+that+actually+work.;Turning+chaos+into+clean+operations.;Front-end+Dev+%2B+UI%2FUX+%2B+Automation.;Always+learning%2C+always+shipping." alt="Typing SVG" /></a>
 
-My work spans software development, system digitization, data tools (Excel and automation), and technical training. I’m especially passionate about using technology to improve operations in schools, SMEs, and founder-led organizations.  
+<br/>
 
-💻 Tech: JavaScript, Python, React, Git, APIs  
-🎨 UI/UX: User-centered design, wireframing, prototyping  
-📊 Data: Advanced Excel, reporting, automation  
-🌱 Currently growing in cybersecurity, scalable systems and real-world product development 
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%23FF1493.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFB6C1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://evolence.ke)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6978791" style='border:none;'></iframe>
+</div>
+
+---
+
+## 🌸 About Me
+
+I'm a **Software Engineer & UI/UX Designer** building practical, user-centered digital solutions. I currently run **[Evolence](https://evolence.ke)** — a digital operations consultancy helping schools, SMEs, and founder-led teams replace operational chaos with efficient, data-powered systems.
+
+My work lives at the intersection of **development, design, and digitisation** — from automating workflows and building tools to training teams on Excel and modern data practices.
+
+> *"Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."* — Rick Osborne
+
+---
+
+## 💡 What I'm Working On
+
+- 🏢 **[Evolence](https://evolence.ke)** — digitising operations for schools & SMEs across Kenya
+- ⚙️ **KaziFlow** — a workflow management web app (React + Vite)
+- 🔐 Growing in **cybersecurity** via TryHackMe
+- 📦 Building scalable systems and real-world products
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%23FF1493.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-%23FFB6C1.svg?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%23FF1493.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-%23FF69B4.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23FFB6C1.svg?style=for-the-badge&logo=vite&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-%23FF1493.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-%23FF69B4.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Advanced%20Excel-%23FFB6C1.svg?style=for-the-badge&logo=microsoftexcel&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rosedebrah&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF69B4&text_color=FFB6C1&icon_color=FF1493&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosedebrah&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF69B4&text_color=FFB6C1&layout=compact" height="165"/>
+
+<br/>
+
+<!-- GitHub Commit Streak -->
+<img src="https://streak-stats.demolab.com?user=Rosedebrah&theme=radical&hide_border=true&background=0D0D0D&stroke=FF69B4&ring=FF1493&fire=FFB6C1&currStreakNum=FF69B4&sideNums=FFB6C1&currStreakLabel=FF1493&sideLabels=FF69B4&dates=FFB6C1" />
+
+</div>
+
+---
+
+## 🏆 Coding Challenges & Cybersecurity
+
+<div align="center">
+
+<!-- TryHackMe Badge -->
+<a href="https://tryhackme.com/p/Rosedebrah" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Rosedebrah.png" alt="TryHackMe Badge" style="border-radius:8px;"/>
+</a>
+
+<br/><br/>
+
+<!-- LeetCode Stats -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rosedebrah?theme=dark&font=Fira%20Code&ext=heatmap&border=FF69B4&background=0D0D0D)
+
+</div>
+
+---
+
+## 💬 CoderGirl Quotes I Live By
+
+<div align="center">
+
+> *"The question isn't who's going to let me; it's who's going to stop me."* — Ayn Rand
+
+> *"I always did something I was a little not ready to do. I think that's how you grow."* — Marissa Mayer
+
+> *"Coders are the architects of the future."* — Anonymous
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontColor=FFB6C1"/>
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://rosedebrah.co.ke/)
+![Profile Views](https://komarev.com/ghpvc/?username=Rosedebrah&color=FF69B4&style=flat-square&label=Profile+Views)
 
-[![Evolence](https://img.shields.io/badge/Evolence-Visit-blue?style=for-the-badge)](https://evolence.vercel.app/)
-
-
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.                   ~Rick Osborne
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/7uezKFkk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Debiecrochets) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@0xcybergirl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojuokrosedebrah@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
-
-
-
+</div>
