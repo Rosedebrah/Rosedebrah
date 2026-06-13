@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23FF69B4.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%23FF1493.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFB6C1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://evolence.ke)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFB6C1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://evolence.vercel.app)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 🌸 About Me
 
-I'm a **Software Engineer & UI/UX Designer** building practical, user-centered digital solutions. I currently run **[Evolence](https://evolence.ke)** — a digital operations consultancy helping schools, SMEs, and founder-led teams replace operational chaos with efficient, data-powered systems.
+I'm a **Software Engineer & UI/UX Designer** building practical, user-centered digital solutions. I currently run **[Evolence](https://evolence.vercel.app)** — a digital operations consultancy helping schools, SMEs, and founder-led teams replace operational chaos with efficient, data-powered systems.
 
 My work lives at the intersection of **development, design, and digitisation** — from automating workflows and building tools to training teams on Excel and modern data practices.
 
@@ -29,8 +29,7 @@ My work lives at the intersection of **development, design, and digitisation** �
 
 ## 💡 What I'm Working On
 
-- 🏢 **[Evolence](https://evolence.ke)** — digitising operations for schools & SMEs across Kenya
-- ⚙️ **KaziFlow** — a workflow management web app (React + Vite)
+- 🏢 **[Evolence](https://evolence.vercel.app)** — digitising operations for schools & SMEs across Kenya
 - 🔐 Growing in **cybersecurity** via TryHackMe
 - 📦 Building scalable systems and real-world products
 
@@ -92,21 +91,6 @@ My work lives at the intersection of **development, design, and digitisation** �
 
 </div>
 
----
-
-## 💬 CoderGirl Quotes I Live By
-
-<div align="center">
-
-> *"The question isn't who's going to let me; it's who's going to stop me."* — Ayn Rand
-
-> *"I always did something I was a little not ready to do. I think that's how you grow."* — Marissa Mayer
-
-> *"Coders are the architects of the future."* — Anonymous
-
-</div>
-
----
 
 <div align="center">
 
