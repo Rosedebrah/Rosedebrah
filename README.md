@@ -27,7 +27,7 @@ My work lives at the intersection of **development, design, and digitisation** �
 
 ---
 
-## 💡 What I'm Working On
+##  What I'm Working On
 
 - 🏢 **[Evolence](https://evolence.vercel.app)** — digitising operations for schools & SMEs across Kenya
 - 🔐 Growing in **cybersecurity** via TryHackMe
